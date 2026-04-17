@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modifying in master
+=======
+editing file in feature
+Feature1
